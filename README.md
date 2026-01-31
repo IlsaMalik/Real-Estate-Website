@@ -60,6 +60,7 @@ Edit
 npm run build
 Notes
 Ensure globals.scss is located in the app/ directory and is imported using a relative path like:
+link:https://kzmn87iwgjp8anybxg01.lite.vusercontent.net/
 
 js
 Copy
